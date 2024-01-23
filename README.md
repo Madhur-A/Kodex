@@ -1,2 +1,2 @@
 # Kodex
-A Few Solutions of Coding Problems
+Solutions of a few Coding Problems
